@@ -1,0 +1,10 @@
+HTTP Running : 8000  from  /home/mininet/Project-4/myURLS/rum-collector.pingdom.net  with delay  0.0 s
+<socket._socketobject object at 0x7fcd62deab40>
+/home/mininet/Project-4/myURLS/rum-collector.pingdom.net/img/beacon.gif
+/img/beacon.gif?path=http%3A%2F%2Fwww.monsanto.com%2F&title=Monsanto%3A%20A%20Modern%20Agriculture%20Company&id=5942ff017ca8f4382f3e2a3a&s=nt&rC=0&sid=513efpe1&sis=1&ref=&nS=0&uES=-1&uEE=-1&rS=-1&rE=-1&fS=0&dLS=0&dLE=0&cS=0&cE=0&hS=-1&reS=0&resS=0&resE=886&dL=457&dI=2538&dCLES=2538&dCLEE=2538&dC=4927&lES=4927&lEE=4975
+/img/beacon.gif?path=http%3A%2F%2Fwww.monsanto.com%2F&title=Monsanto%3A%20A%20Modern%20Agriculture%20Company&id=5942ff017ca8f4382f3e2a3a&s=nt&rC=0&sid=513efpe1&sis=1&ref=&nS=0&uES=-1&uEE=-1&rS=-1&rE=-1&fS=0&dLS=0&dLE=0&cS=0&cE=0&hS=-1&reS=0&resS=0&resE=886&dL=457&dI=2538&dCLES=2538&dCLEE=2538&dC=4927&lES=4927&lEE=4975
+trying hash: 4231a4157231e73767fcf70b6dae2a62
+10.0.0.26 - - [08/Oct/2017 15:33:02] code 404, message file not found
+10.0.0.26 - - [08/Oct/2017 15:33:02] "GET /img/beacon.gif?path=http%3A%2F%2Fwww.monsanto.com%2F&title=Monsanto%3A%20A%20Modern%20Agriculture%20Company&id=5942ff017ca8f4382f3e2a3a&s=nt&rC=0&sid=513efpe1&sis=1&ref=&nS=0&uES=-1&uEE=-1&rS=-1&rE=-1&fS=0&dLS=0&dLE=0&cS=0&cE=0&hS=-1&reS=0&resS=0&resE=886&dL=457&dI=2538&dCLES=2538&dCLEE=2538&dC=4927&lES=4927&lEE=4975 HTTP/1.1" 404 -
+10.0.0.26 - - [08/Oct/2017 15:33:02] "GET /img/beacon.gif?path=http%3A%2F%2Fwww.monsanto.com%2F&title=Monsanto%3A%20A%20Modern%20Agriculture%20Company&id=5942ff017ca8f4382f3e2a3a&s=nt&rC=0&sid=513efpe1&sis=1&ref=&nS=0&uES=-1&uEE=-1&rS=-1&rE=-1&fS=0&dLS=0&dLE=0&cS=0&cE=0&hS=-1&reS=0&resS=0&resE=886&dL=457&dI=2538&dCLES=2538&dCLEE=2538&dC=4927&lES=4927&lEE=4975 HTTP/1.1" 200 -
+Killed

@@ -1,0 +1,10 @@
+HTTP Running : 8000  from  /home/mininet/Project-4/myURLS/rum-static.pingdom.net  with delay  0.0 s
+<socket._socketobject object at 0x7f159209fb40>
+/home/mininet/Project-4/myURLS/rum-static.pingdom.net/prum.min.js
+/prum.min.js
+10.0.0.26 - - [08/Oct/2017 15:32:01] "GET /prum.min.js HTTP/1.1" 200 -
+<socket._socketobject object at 0x7f159209fb40>
+/home/mininet/Project-4/myURLS/rum-static.pingdom.net/prum.min.js
+/prum.min.js
+10.0.0.26 - - [08/Oct/2017 15:32:06] "GET /prum.min.js HTTP/1.1" 200 -
+Killed
