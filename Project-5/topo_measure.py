@@ -82,7 +82,7 @@ class Topo1(Topo):
         hconfig = {'cpu': cpu}
         lconfig_eth = {'bw': 10, 'delay': '1ms', 'loss': 0,
                    'max_queue_size': max_queue_size }
-        lconfig_3g = {'bw': 2, 'delay': '75ms', 'loss': 2,
+        lconfig_3g = {'bw': 2, 'delay': '5ms', 'loss': 0,
                    'max_queue_size': max_queue_size }
         lconfig_wifi = {'bw': 2, 'delay': '5ms', 'loss': 3,
                    'max_queue_size': max_queue_size }

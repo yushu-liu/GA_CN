@@ -1,11 +1,11 @@
 [32m*** Dumping network connections:[0m
 [34m*** Testing connectivity[0m
 [35m*** Running experiment[0m
-[1.995134221166273, 0.7387674539044522, 2.733901675070725]
-[33mExperiment took 100.984 seconds[0m
+[1.9999662308784967, 1.9998974994885583, 3.9998637303670552]
+[33mExperiment took 91.042 seconds[0m
 s1-eth2
 s2-eth2
-saving to mptcp-05-Oct15-14:26/cwnd.png
-Started at Sun Oct 15 14:26:06 EDT 2017
-Ended at Sun Oct 15 14:27:47 EDT 2017
-Output saved to mptcp-05-Oct15-14:26
+saving to mptcp-05-Oct15-15:13/cwnd.png
+Started at Sun Oct 15 15:13:23 EDT 2017
+Ended at Sun Oct 15 15:14:55 EDT 2017
+Output saved to mptcp-05-Oct15-15:13
